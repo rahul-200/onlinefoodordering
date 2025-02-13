@@ -1,0 +1,10 @@
+com\example\demo\service\MenuItemService.class
+com\example\demo\controller\MenuItemController.class
+com\example\demo\repository\MenuItemRepository.class
+com\example\demo\service\RestaurantService.class
+com\example\demo\controller\RestaurantController.class
+com\example\demo\model\Restaurant.class
+com\example\demo\config\WebMvcConfig.class
+com\example\demo\repository\RestaurantRepository.class
+com\example\demo\OnlineFoodOrderingApplication.class
+com\example\demo\model\MenuItem.class
